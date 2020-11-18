@@ -22,6 +22,30 @@
 - Problems and Needs/Wants
 - Problem cloud
 
+**- Problems -> Needs/Wants:**
+>>- Ozone Layes's hole
+>>- Water polution
+>>>- Better quality of drinking water
+>>>- Peace of mind when swimming at beaches, lakes and rivers
+>>- Climate changes
+>>- Alcohool
+>>>- Actualy this one is the solution, not the problem. My bad. :)
+>>- Drugs
+>>- Drink and drive
+>>>- more control
+>>>- 
+>>- Poverty
+>>>- Smaller gap between rich and poor
+>>>- US Dollar
+>>>- Fair cost of living
+>>- House prices
+>>>- Lower prices
+>>>- Govt help
+>>>- Lower interest rates
+>>- Racism and discrimination
+>>>- Make people aware
+>>>- Educate people
+
 #### Task 3: Brainstorm solutions
 - Problems and Needs/Wants + Solutions
 - Solution cloud
@@ -30,7 +54,8 @@
 - Lean Canvas part 1 (e.g. photo)
 - Elevator Pitch text
 
-#### Task 5: Validate the market ▪ Validation questions
+#### Task 5: Validate the market
+- Validation questions
 - Recording responses
 - Review notes – what you changed
 
