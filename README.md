@@ -7,7 +7,7 @@
 
 ### - Project Documentation
 
-#### Task 1: Project Set up 
+#### Task 1: Project Set up
 - [Kanban Board](https://github.com/ejan201/te-ara-haepapa-app/projects/1)
 - Team values
 > **"If I can not do everything I have to. I must at least do everything I can"** *~Amigos do Bem*
@@ -32,8 +32,8 @@
 >>>- Actualy this one is the solution, not the problem. My bad. :)
 >>- Drugs
 >>- Drink and drive
->>>- more control
->>>- 
+>>>- More control avoiding drunk drivers to get on the road 
+>>>-
 >>- Poverty
 >>>- Smaller gap between rich and poor
 >>>- US Dollar
