@@ -32,8 +32,7 @@
 >>>- Actualy this one is the solution, not the problem. My bad. :)
 >>- Drugs
 >>- Drink and drive
->>>- More control avoiding drunk drivers to get on the road 
->>>-
+>>>- Better control to avoid drunk drivers to get on the road 
 >>- Poverty
 >>>- Smaller gap between rich and poor
 >>>- US Dollar
