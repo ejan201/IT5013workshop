@@ -3,10 +3,9 @@
 ## WORKSHOP PROJECT
 20200818 - Eduardo Janasi do Nascimento
 
-# Te Ara Haepapa App
-## 'The Responsible Way'
+# Te Ara Haepapa App ***'The Responsible Way'***
 
-# - Project Documentation
+### - Project Documentation
 
 #### Task 1: Project Set up 
 - [Kanban Board](https://github.com/ejan201/te-ara-haepapa-app/projects/1)
@@ -22,3 +21,18 @@
 #### Task 2: Identify a problem
 - Problems and Needs/Wants
 - Problem cloud
+
+#### Task 3: Brainstorm solutions
+- Problems and Needs/Wants + Solutions
+- Solution cloud
+
+#### Task 4: Prepare “Elevator Pitch”
+- Lean Canvas part 1 (e.g. photo)
+- Elevator Pitch text
+
+#### Task 5: Validate the market ▪ Validation questions
+- Recording responses
+- Review notes – what you changed
+
+#### Task 6: Reflect - INDIVIDUAL TASK
+- Reflection document containing proposal summary, process followed and process evaluation, summary of your contribution and learnings and improvements.
