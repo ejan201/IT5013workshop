@@ -26,6 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/73142541/99606099-f24f0980-2a6d-11eb-91db-bb460132e6a1.png)
 
+
 #### Task 3: Brainstorm solutions
 - Problems and Needs/Wants + Solutions
 - Solution cloud
