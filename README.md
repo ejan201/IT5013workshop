@@ -5,6 +5,8 @@
 
 20200806 - Luke Isaac Harris-Swinburn
 
+20200695 - Saajan Madhav
+
 # Te Ara Haepapa App ***'The Responsible Way'***
 
 ### - Project Documentation
@@ -52,6 +54,8 @@ What makes your Solution unique? ***It is a automated response to drink driving 
 - Validation questions
 - Recording responses
 - Review notes – what you changed
+
+![image](https://user-images.githubusercontent.com/73517628/99622316-b6786c00-2a8e-11eb-8745-9695f59a75f0.png)
 
 #### Task 6: Reflect - INDIVIDUAL TASK
 - Reflection document containing proposal summary, process followed and process evaluation, summary of your contribution and learnings and improvements.
