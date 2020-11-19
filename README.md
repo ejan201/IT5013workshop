@@ -64,3 +64,5 @@ What makes your Solution unique? ***It is a automated response to drink driving 
 
 #### Task 6: Reflect - INDIVIDUAL TASK
 - Reflection document containing proposal summary, process followed and process evaluation, summary of your contribution and learnings and improvements.
+
+[Eduardo's reflection](https://github.com/ejan201/te-ara-haepapa-app/blob/main/eduardos-reflection)
