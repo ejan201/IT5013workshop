@@ -26,7 +26,6 @@
 
 ![image](https://user-images.githubusercontent.com/73142541/99606099-f24f0980-2a6d-11eb-91db-bb460132e6a1.png)
 
-
 #### Task 3: Brainstorm solutions
 - Problems and Needs/Wants + Solutions
 - Solution cloud
@@ -42,6 +41,9 @@ The Solution: The ***Te Ara Haepapa App***
 What makes your Solution unique? ***It is a automated response to drink driving rather than a breathaliser test being conducted by a police officer. This removes the need for human resources and allows drink driving to be maintained and controlled to avoid fatal consequences.***
 
 - Lean Canvas part 1 (e.g. photo)
+
+[lean canvas.pdf](https://github.com/ejan201/te-ara-haepapa-app/files/5564336/lean.canvas.pdf)
+
 - Elevator Pitch text
 
 #### Task 5: Validate the market
