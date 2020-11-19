@@ -42,7 +42,7 @@ What makes your Solution unique? ***It is a automated response to drink driving 
 
 - Lean Canvas part 1 (e.g. photo)
 
-[lean canvas.pdf](https://github.com/ejan201/te-ara-haepapa-app/files/5564336/lean.canvas.pdf)
+![image](https://user-images.githubusercontent.com/73517628/99621219-33561680-2a8c-11eb-9424-1ba65c7183cb.png)
 
 - Elevator Pitch text
 
