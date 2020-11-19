@@ -1,11 +1,12 @@
 ## IT5013
 ## PROFESSIONAL PRACTICE
 ## WORKSHOP PROJECT
-20200818 - Eduardo Janasi do Nascimento
 
-20200806 - Luke Isaac Harris-Swinburn
+@ejan201 20200818 - Eduardo Janasi do Nascimento
 
-20200695 - Saajan Madhav
+@lhar201 20200806 - Luke Isaac Harris-Swinburn
+
+@Saajan101 20200695 - Saajan Madhav
 
 # Te Ara Haepapa App ***'The Responsible Way'***
 
@@ -33,6 +34,8 @@
 - Solution cloud
 
 ![image](https://user-images.githubusercontent.com/73142541/99611422-87ef9680-2a78-11eb-9fb7-2941d8c626bf.png)
+
+[Mural Link](https://app.mural.co/t/whitecliffecollege3284/m/whitecliffecollege3284/1605741795253/39ae7578ba1008de26ea3aa10ef30ce66bdee6a3)
 
 #### Task 4: Prepare “Elevator Pitch”
 
