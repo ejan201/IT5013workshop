@@ -20,30 +20,11 @@
 
 #### Task 2: Identify a problem
 - Problems and Needs/Wants
+
+![image](https://user-images.githubusercontent.com/73142541/99606099-f24f0980-2a6d-11eb-91db-bb460132e6a1.png)
+
 - Problem cloud
 
-**- Problems -> Needs/Wants:**
->>- Ozone Layes's hole
->>- Water polution
->>>- Better quality of drinking water
->>>- Peace of mind when swimming at beaches, lakes and rivers
->>- Climate changes
->>- Alcohool
->>>- Actualy this one is the solution, not the problem. My bad. :)
->>- Drugs
->>- Drink and drive
->>>- Better control to avoid drunk drivers to get on the road 
->>- Poverty
->>>- Smaller gap between rich and poor
->>>- US Dollar
->>>- Fair cost of living
->>- House prices
->>>- Lower prices
->>>- Govt help
->>>- Lower interest rates
->>- Racism and discrimination
->>>- Make people aware
->>>- Educate people
 
 #### Task 3: Brainstorm solutions
 - Problems and Needs/Wants + Solutions
