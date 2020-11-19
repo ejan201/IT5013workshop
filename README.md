@@ -2,6 +2,7 @@
 ## PROFESSIONAL PRACTICE
 ## WORKSHOP PROJECT
 20200818 - Eduardo Janasi do Nascimento
+
 20200806 - Luke Isaac Harris-Swinburn
 
 # Te Ara Haepapa App ***'The Responsible Way'***
