@@ -2,11 +2,13 @@
 ## PROFESSIONAL PRACTICE
 ## WORKSHOP PROJECT
 
-@ejan201 20200818 - Eduardo Janasi do Nascimento
+**Contributors:**
 
-@lhar201 20200806 - Luke Isaac Harris-Swinburn
+@ejan201 - 20200818 - Eduardo Janasi do Nascimento
 
-@Saajan101 20200695 - Saajan Madhav
+@lhar201 - 20200806 - Luke Isaac Harris-Swinburn
+
+@Saajan101 - 20200695 - Saajan Madhav
 
 # Te Ara Haepapa App ***'The Responsible Way'***
 
