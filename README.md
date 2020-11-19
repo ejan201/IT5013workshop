@@ -36,8 +36,10 @@
 #### Task 4: Prepare “Elevator Pitch”
 
 The Problem: ***Drink and Drive***
+
 The Solution: The ***Te Ara Haepapa App***
-What makes your Solution unique? It is a automated response
+
+What makes your Solution unique? ***It is a automated response to drink driving rather than a breathaliser test being conducted by a police officer. This removes the need for human resources and allows drink driving to be maintained and controlled to avoid fatal consequences.***
 
 - Lean Canvas part 1 (e.g. photo)
 - Elevator Pitch text
