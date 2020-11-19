@@ -34,6 +34,11 @@
 ![image](https://user-images.githubusercontent.com/73142541/99611422-87ef9680-2a78-11eb-9fb7-2941d8c626bf.png)
 
 #### Task 4: Prepare “Elevator Pitch”
+
+The Problem: ***Drink and Drive***
+The Solution: The ***Te Ara Haepapa App***
+What makes your Solution unique? It is a automated response
+
 - Lean Canvas part 1 (e.g. photo)
 - Elevator Pitch text
 
