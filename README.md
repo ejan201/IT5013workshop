@@ -46,6 +46,8 @@ What makes your Solution unique? ***It is a automated response to drink driving 
 
 - Elevator Pitch text
 
+***What's your life worth to you? Imagine you or a loved one is walking home and never arrive due to a drunk driver with a lack of common sense.***
+
 #### Task 5: Validate the market
 - Validation questions
 - Recording responses
