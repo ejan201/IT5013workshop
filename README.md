@@ -15,7 +15,7 @@
 ### - Project Documentation
 
 #### Task 1: Project Set up
-- [Kanban Board](https://github.com/ejan201/te-ara-haepapa-app/projects/1)
+- [Kanban Board](https://github.com/ejan201/IT5013workshop/projects)
 - Team values
 > **"If I can not do everything I have to. I must at least do everything I can"** *~Amigos do Bem*
 >1. It's all about people
